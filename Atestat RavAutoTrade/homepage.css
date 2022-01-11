@@ -1,0 +1,32 @@
+h1{
+    padding-left: 260px;
+    font-family: ;
+}
+
+#navbar{
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Segoe UI';
+    word-spacing: 10px;
+    margin-top: 50px;
+    width: 1000px;
+    border: 3px solid #2a9d8f;
+    padding: 10px;
+    border-radius: 10px;    
+    margin-left: 260px;
+}
+
+.navlink{
+    text-decoration: none;
+}
+
+.btnnav{
+    padding: 0;
+    border: none;
+    background: none;
+}
+
+.btnnav:hover{
+    color: #e9c46a;
+}
+
