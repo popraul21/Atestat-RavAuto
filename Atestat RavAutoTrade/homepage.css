@@ -22,7 +22,7 @@ body{
 #navbar{
     text-align: center;
     font-size: 16px;
-    /*font-family: 'Segoe UI';*/
+    font-family: 'Segoe UI';
     word-spacing: 10px;
     margin-top: 1px;
     width: auto;
@@ -82,7 +82,14 @@ body{
 }
 
 /*Imagine cautare*/
+#g63img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
 
+/*Butoanele de inregistrare si logare*/
 #register_login{
     background-color: #e63946;
     color: #f1faee;
@@ -104,6 +111,10 @@ body{
     background: none;
     color: #f1faee;
     font-family: 'Segoe UI';
+}
+
+.logreg:hover{
+    color:#1d3557;
 }
 
 .cont{
